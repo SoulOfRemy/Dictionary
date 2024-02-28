@@ -1,0 +1,5 @@
+smartphone=dien thoai thong minh
+cat=meo
+bird=chim
+cow=con bo
+dog=cho
